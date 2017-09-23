@@ -8,13 +8,13 @@ $title = 'Something is broken.';
 $body = 'Please fix it.';
 
 $client = new GitHubClient();
-$client->setCredentials('fernsoft.corporation@gmail.com', 'Be0809nrcb');
+$client->setCredentials('ferns----il.com', '---');
 $client->issues->createAnIssue($owner, $repo, $title, $body);
 
 
 
-/*$client = new GitHubClient("cdf696013ef4e6ef74ff4355f7d022e9f272ab3b");
-$client->setCredentials('fernsoft.corporation@gmail.com', 'Be0809nrcb');
+/*$client = new GitHubClient("cdf696013ef4e6ef---e9f272ab3b");
+$client->setCredentials('ferns----ail.com', 'B---');
 
 
 
